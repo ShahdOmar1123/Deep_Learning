@@ -1,4 +1,4 @@
-[23:51، 2025/9/26] Shahd: Activation functions are mathematical operations applied to neurons in a neural network to introduce non-linearity. They help the network learn complex patterns and make better predictions. Below are some commonly used activation functions:
+ Activation functions are mathematical operations applied to neurons in a neural network to introduce non-linearity. They help the network learn complex patterns and make better predictions. Below are some commonly used activation functions:
 
 ---
 
